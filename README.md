@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ijomah
      My full name is Ijomah Jacob Ifinwa
-- 👀 I’m interested in technologies like Angular, React, React-native, JavaScript, HTML5, CSS3, SQL, Nodejs, bootstrap Jquery, Electron and Cordova 
+- 👀 I’m interested in technologies like React, React-native, JavaScript, Angular, HTML5, CSS3, SQL, Nodejs, bootstrap Jquery, Electron and Cordova 
 - 🌱 I’m currently working with ... React Native / Expo, React, Node.js and PostgresSQL
-- 💞️ I’m looking to collaborate on building e-learning site ...
+- 💞️ I’m looking to collaborate on building some awesome ...
 - 📫 How to reach me ijomahifinwa@gmail.com and +234 816 4130 022...
 
 <!---
